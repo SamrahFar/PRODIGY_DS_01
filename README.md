@@ -4,9 +4,9 @@ This repository contains a data analytics task focused on **distribution analysi
 ## 📁 Repository Structure
 
 . data/ # Contains the dataset used for analysis                                                                                                                                                                
-. image/ # Exported visualizations and plots
-. notebook/ # Jupyter notebooks with code and commentary
-. README.md/ # Contains this README file
+. image/ # Exported visualizations and plots                                                                                                                                                                       
+. notebook/ # Jupyter notebooks with code and commentary                                                                                                                                                            
+. README.md/ # Contains this README file                                                                                                                                                                           
 
 
 ## 📘 Task Description
